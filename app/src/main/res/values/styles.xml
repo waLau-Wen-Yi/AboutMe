@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="aboutme_contentfont">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:padding">5sp</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="aboutme_titlefont">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10sp</item>
+        <item name="android:fontFamily">@font/roboto_mono</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">34sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
